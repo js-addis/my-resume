@@ -1,2 +1,2 @@
 # my-resume
-![alt text](https://www.github.com/js-addis/my-resume/resume.png)
+![alt text](https://github.com/js-addis/my-resume/blob/main/resume.png)
